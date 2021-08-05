@@ -4,3 +4,7 @@ The objective of this project is to extract text from images and then predict th
 
 ## How to run the application?
 Run the Notebook.ipynb using Google colaboratory and upload the 9e9afdaabac711ea.zip which contains the images from which text and then sentiment is to be extracted.
+
+## Tools used:
+1. Tesseract OCR
+2. Keras
