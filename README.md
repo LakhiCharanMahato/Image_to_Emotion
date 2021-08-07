@@ -8,3 +8,4 @@ Run the Notebook.ipynb using Google colaboratory and upload the 9e9afdaabac711ea
 ## Tools used:
 1. Tesseract OCR
 2. Keras
+3. Kaggle API
